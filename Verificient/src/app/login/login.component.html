@@ -1,0 +1,26 @@
+<!-- <div class="main">
+    <div class="l1">
+      <img src="assets/images/logo.png">
+      <h1 class="l2">Weber</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a routerLink="login">Login</a></li>
+        <li><a routerLink="register">Register </a></li>
+      </ul>
+    </nav>
+</div>
+<router-outlet> </router-outlet> -->
+
+
+
+<div class="div1">
+    <h1>Login </h1>
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+    <input type="text" placeholder="Username" formControlName="Username"><br><br>
+    <input  type="password" placeholder="Password"formControlName="Password"><br><br><br>
+    <button>Login </button><br>
+    </form>
+    <a style="color:black; margin-top: 10px;text-decoration: none;font-weight:bolder;font-size: large;"
+     routerLink="/register">New User? Click to Register </a>
+</div>

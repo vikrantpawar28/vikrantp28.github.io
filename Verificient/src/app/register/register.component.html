@@ -1,0 +1,15 @@
+<div class="main">
+  <div class="div2">
+      <h1>Register</h1>
+  <form [formGroup]="registerform" (ngSubmit)="registerup()">
+  <input type="text" placeholder="Username" formControlName="Username"><br>
+  <!-- <span style="color: red;"*ngIf="user && user.invalid">Please enter name</span><br> -->
+  <input type="Email" placeholder="Email" formControlName="Email" ><br><br>
+  <input type="number" placeholder="Mobile" formControlName="Mobile"><br><br>
+  <input type="password" placeholder="password" formControlName="password"><br><br><br>
+  <button>Register</button><br>
+  </form>
+  <a style="color:black; margin-top: 10px;text-decoration: none;font-weight:bolder;font-size: large;" 
+  routerLink="/login">Already registered? Click to Login </a>
+  </div>
+  </div>

@@ -1,0 +1,405 @@
+
+
+.main{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 900px;
+    background-color:gray;
+
+}
+.div2{
+    width: 68%;
+    height: 60px;
+    position: relative;
+    left: 25px;
+    top:40px;
+    background-color:white;
+    box-sizing: border-box;
+}
+.first{
+    position: relative;
+    left: 20px;
+    top: 15px;
+    font-size:22px;
+}
+.second{
+    position: absolute;
+    top: 1px;
+    right: 244px;
+    font-size: 22px;
+}
+.third{
+    position: absolute;
+    right: 20px;
+    top: 17px;
+    float: right;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightgray;
+    color: green;
+    border-color: lightgray;
+}
+.div3{
+    position: absolute;
+    left: 30px;
+    top:120px;
+    width: 663px;
+    height: 280px;
+    background-color: white;
+}
+.img1{
+    position: relative;
+    top: 24px;
+    left: 70px;
+    width: 200px;
+    height: 200px;
+}
+.bitcoin1{
+    position:relative;
+    top:16px;
+    font-size: 20px;
+    float: right;
+    left: -133px;
+
+}
+.bitcoin2{
+    position:relative;
+    top:90px;
+    font-size: 20px;
+    float: right;
+    right: 50px;
+}
+.bitcoin3{
+    position:relative;
+    top:160px;
+    font-size: 20px;
+    float: right;
+    right: -30px;
+}
+.first3{
+    position: absolute;
+    left: 20px;
+    font-size: 25   px;
+}
+.second3{
+    position: absolute;
+    float: right;
+    right: 20px;
+    font-size: 15px;
+    box-shadow: 1px 1px 1px 2px rgb(218, 212, 212);
+}
+.third3{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    font-size: 17px;
+}
+.third4{
+    position: relative;
+    top:70px;
+    left: 250px;
+    font-size: 17px;
+}
+.third5{
+    position: relative;
+    float: right;
+    right: 100px;
+    bottom:-5px;
+    font-size: 17px;
+}
+.button2{
+    position: relative;
+    left: 20px;
+    bottom: -80px;
+    font-size: 20px;
+    font-weight:bold;
+    background-color: lightgray;
+    color: green;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.div4{
+    position: absolute;
+    right: 410px;
+    top:120px;
+    width: 663px;
+    height: 280px;
+    background-color: white;
+}
+.text{
+    position: relative;
+    font-size: small;
+    left: 10px;
+}
+.text span{
+    position: relative;
+    float: right;
+    right: 40px;
+    top:-15px
+}
+
+.div5{
+    position: absolute;
+    left: 28px;
+    top:396px;
+    width: 420px;
+    height: 250px;
+    background-color:   white;
+}
+.week{
+    position: absolute;
+    left: 35px;
+    bottom: 21px;
+    font-size: 20px;
+}
+.year{
+    position: absolute;
+    left: 180px;
+    bottom: 21px;
+    font-size: 20px;
+}
+.time{
+    position: absolute;
+    right: 35px;
+    font-size: 20px;
+    float: right;
+    bottom: 21px;
+
+}
+.img4{
+    position: relative;
+    left: 10px;
+    top:10px;
+    width: 400px;
+    height: 100px;
+}
+.div6{
+    position: absolute;
+    left: 423px;
+    top:396px;
+    width: 420px;
+    height: 250px;
+    background-color: white;
+}
+.div7{
+    position: absolute;
+    right: 225px;
+    top:396px;
+    width: 420px;
+    height: 250px;
+    background-color:white;
+}
+.div8{
+    position: absolute;
+    left: 28px;
+    bottom: 27px;
+    width: 889px;
+    height: 249px;
+    top: 650px;
+    background-color: white;
+}
+.img8{
+    position: relative;
+    left: 30px;
+    margin: 5px;
+    padding:10px;
+    width: 800px;
+    height: 220px;
+}
+.div9{
+    position: absolute;
+    right: 410px;
+    bottom:10px;
+    width: 435px;
+    height: 249px;
+    top: 650px;
+    background-color: white;
+}
+.jan{
+    position: absolute;
+    left: 20px;
+    font-size: 25px;
+
+}
+.feb{
+    position: absolute;
+    top: 20px;
+    float: right;
+    right: 45px;
+    background-color: lightgray;
+    color: green;
+    border-radius: 5px;
+    border-color: lightgray;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.apr{
+    position: absolute;
+    left: 30px;
+    top:50px;
+    font-size: 20px;
+
+}
+.apr span{
+    position: absolute;
+    float: right;
+    right: -310px;
+}
+.may{
+    position: absolute;
+    left: 30px;
+    top:120px;
+    font-size: 20px;
+
+}
+.may span{
+    position: absolute;
+    float: right;
+    right: -310px;
+}
+.june{
+    position: absolute;
+    left: 30px;
+    top:180px;
+    font-size: 20px;
+
+}
+.june span{
+    position: absolute;
+    float: right;
+    right: -310px;
+}
+.div10{
+    position: absolute;
+    top:20px;
+    right: 5px;
+    width: 400px;
+    height: 880px;
+    background-color: white;
+}
+.last{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 110px;
+    height: 110px;
+}
+.sun{
+    position: absolute;
+    right:60px;
+    top:40px;
+    font-size: 22px;
+}
+.sun span{
+    font-size: 18px;
+    color:green ;
+    border-radius: 5px;
+    border-color: rgb(223, 6, 136);
+}
+.mon{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-size: 20px;
+}
+.last1{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last1 span{
+    color: gray;
+    font-size: 17px;
+}
+.last2{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last2 span{
+    color: gray;
+    font-size: 17px;
+}
+.last3{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last3 span{
+    color: gray;
+    font-size: 17px;
+}
+.thu{
+    position: relative;
+    left: 20px;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.thu span button{
+    background-color: lightgray;
+    font-weight: bold;
+    position: relative;
+    left: 270px;
+    font-size: 20px;
+    color: green;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.price1{
+    position: absolute;
+    left: 30px;
+    bottom:360px;
+    font-size: 30px;
+}
+.price2{
+    position: absolute;
+    left: 30px;
+    bottom:300px;
+    font-size: 30px;
+}
+.pink{
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+    border: 1px;
+    background: linear-gradient( 90deg, rgb(116, 20, 84) 0%, rgb(174, 102, 161) 100%);
+    width: 439px;
+    height: 250px;
+}
+.pink img{
+    position: relative;
+    width: 148px;
+    height: 141px;
+    left: 136px;
+    top: -51px;
+}
+.white{
+    position: relative;
+    text-align: center;
+    top:-50px;
+    left: 5px;
+    color: white;
+}
+.pink button{
+    background-color: lightgray;
+    color: green;
+    border-radius: 5px;
+    border-color: lightgray;
+    font-size: 20px;
+    position:absolute;
+    left: 160px;
+    bottom: 10px;
+}
+/* .div11{
+    top: 40px;
+    background-color: white;
+    height: 100px;
+    width: 5px;
+    left: 1px;
+    box-sizing: border-box;
+} */
